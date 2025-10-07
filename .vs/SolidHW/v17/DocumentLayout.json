@@ -37,58 +37,6 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RandomNumberGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\RandomNumberGenerator.cs",
-              "RelativeDocumentMoniker": "SolidHW\\RandomNumberGenerator.cs",
-              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\RandomNumberGenerator.cs",
-              "RelativeToolTip": "SolidHW\\RandomNumberGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T11:35:59.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u041E\u0442\u0447\u0435\u0442.txt",
-              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
-              "RelativeDocumentMoniker": "SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
-              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
-              "RelativeToolTip": "SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-07T11:33:24.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\GameSettings.cs",
-              "RelativeDocumentMoniker": "SolidHW\\GameSettings.cs",
-              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\GameSettings.cs",
-              "RelativeToolTip": "SolidHW\\GameSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T11:33:09.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGameUI.cs",
-              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\IGameUI.cs",
-              "RelativeDocumentMoniker": "SolidHW\\IGameUI.cs",
-              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\IGameUI.cs",
-              "RelativeToolTip": "SolidHW\\IGameUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:51:57.697Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -102,6 +50,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "SolidHW\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "SolidHW\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:35:59.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041E\u0442\u0447\u0435\u0442.txt",
+              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
+              "RelativeDocumentMoniker": "SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
+              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
+              "RelativeToolTip": "SolidHW\\\u041E\u0442\u0447\u0435\u0442.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T11:33:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\GameSettings.cs",
+              "RelativeDocumentMoniker": "SolidHW\\GameSettings.cs",
+              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\GameSettings.cs",
+              "RelativeToolTip": "SolidHW\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:33:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGameUI.cs",
+              "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\IGameUI.cs",
+              "RelativeDocumentMoniker": "SolidHW\\IGameUI.cs",
+              "ToolTip": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\IGameUI.cs",
+              "RelativeToolTip": "SolidHW\\IGameUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:51:57.697Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ConsoleGameUI.cs",
               "DocumentMoniker": "C:\\Users\\Alexey.Blagov\\source\\repos\\SolidHW\\SolidHW\\ConsoleGameUI.cs",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "SolidHW\\ConsoleGameUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:49:29.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T09:49:29.219Z"
             },
             {
               "$type": "Document",
