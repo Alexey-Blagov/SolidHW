@@ -1,0 +1,14 @@
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\bin\Debug\net8.0\SolidHW.exe
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\bin\Debug\net8.0\SolidHW.deps.json
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\bin\Debug\net8.0\SolidHW.runtimeconfig.json
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\bin\Debug\net8.0\SolidHW.dll
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\bin\Debug\net8.0\SolidHW.pdb
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.AssemblyInfoInputs.cache
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.AssemblyInfo.cs
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.csproj.CoreCompileInputs.cache
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.dll
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\refint\SolidHW.dll
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.pdb
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\SolidHW.genruntimeconfig.cache
+C:\Users\Alexey.Blagov\source\repos\SolidHW\SolidHW\obj\Debug\net8.0\ref\SolidHW.dll
